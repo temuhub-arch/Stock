@@ -1,5 +1,7 @@
 {
   "date": "2026-10-22",
-  "fired": [],
+  "fired": [
+    "NVDA:mover"
+  ],
   "news": []
 }
