@@ -1,8 +1,9 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "fired": [
     "AAPL:mover",
-    "MSFT:mover"
+    "MSFT:mover",
+    "NVDA:mover"
   ],
   "news": [
     "dd1bbe35-1782-49fb-9efc-a1cd7faa6819",
@@ -32,6 +33,15 @@
     "710d0b56-051c-3f68-b712-6c38687aea58",
     "9cb30d2a-b998-36b5-88a8-da994a8e3f15",
     "31057d38-c579-3bf2-a543-03e7727d6981",
-    "59ae5c65-80cd-3ccc-88b5-81b16e2849a0"
+    "59ae5c65-80cd-3ccc-88b5-81b16e2849a0",
+    "a147bf9a-4218-3171-97a4-fb80fda211eb",
+    "d5cd7b79-e24f-3634-99e9-414a9ec317e6",
+    "3d9d4ef4-223a-38e7-85ee-3ae3a26cb397",
+    "38b7f7a9-4dc7-32b3-8cb1-4d7a5f3fb683",
+    "2c7695df-d404-32c2-b6f1-756a1807fe3b",
+    "d65d1e0a-5989-3dcc-90d5-e44c46bd88ba",
+    "635d47b5-09c0-3b9d-92f9-af0b01eff2a9",
+    "a92d6b53-eaad-3672-a2fb-95b3ebd685e7",
+    "46860443-20ff-3489-9fc3-858695d481e4"
   ]
 }
