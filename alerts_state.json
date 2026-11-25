@@ -1,8 +1,6 @@
 {
-  "date": "2026-11-24",
-  "fired": [
-    "NVDA:mover"
-  ],
+  "date": "2026-11-25",
+  "fired": [],
   "news": [
     "dd1bbe35-1782-49fb-9efc-a1cd7faa6819",
     "35d99a57-f4df-4685-a54a-116c860da5a5",
@@ -330,6 +328,20 @@
     "386a37a5-037f-4e39-b466-7ffcf08db15d",
     "8381381f-0283-4f2d-b9f2-67be96496b81",
     "c71e5ef2-c588-4fae-9a89-d54e5115efed",
-    "d86b57bd-e226-4a19-aa5f-d59c0105e8ea"
+    "d86b57bd-e226-4a19-aa5f-d59c0105e8ea",
+    "5d88061c-5e5b-4400-9f5b-2abb33f7fdb0",
+    "158e82fc-b889-34b6-8704-99a49e9a83ae",
+    "dfc3aabf-d571-301c-8b7a-ff843b5c45e7",
+    "bdd955e8-ebb1-3948-b2fc-7c5cd6a31d52",
+    "fed0ba1a-1835-3234-b475-4ad6bcc3e25d",
+    "c6dff85f-fbb4-4d11-a4e9-ff9d2f9a118c",
+    "abc3d4dc-dd64-41d2-ad20-b540b066a73e",
+    "5f222f92-8499-38fe-81a8-ba43a874d36b",
+    "a6b078ed-8735-3691-9457-c46c6e0595c9",
+    "199b4781-45b9-4133-a468-e9d52aaaa9ff",
+    "4223f2be-a48a-4c26-93db-337e1d71e397",
+    "e8501743-4acf-4161-8796-824b072d9c9e",
+    "a0ab6a71-62aa-46ff-91bf-e04172a3aaef",
+    "ddcfe96a-bdbe-4896-97ac-1634941a166c"
   ]
 }
